@@ -1,0 +1,7 @@
+C:\Users\Manut\Desktop\Projetos\Projetao\obj\Debug\net8.0\ProjetoC#.csproj.AssemblyReference.cache
+C:\Users\Manut\Desktop\Projetos\Projetao\obj\Debug\net8.0\ProjetoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manut\Desktop\Projetos\Projetao\obj\Debug\net8.0\ProjetoC#.AssemblyInfoInputs.cache
+C:\Users\Manut\Desktop\Projetos\Projetao\obj\Debug\net8.0\ProjetoC#.AssemblyInfo.cs
+C:\Users\Manut\Desktop\Projetos\Projetao\obj\Debug\net8.0\ProjetoC#.csproj.CoreCompileInputs.cache
+C:\Users\Manut\Desktop\Projetos\Projetao\obj\Debug\net8.0\ProjetoC#.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Manut\Desktop\Projetos\Projetao\obj\Debug\net8.0\ProjetoC#.MvcApplicationPartsAssemblyInfo.cache

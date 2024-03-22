@@ -1,0 +1,14 @@
+c:\Users\rafael.nakayama\Desktop\ExerciciosCsharp\ExercicioProduto\bin\Debug\net8.0\ExercicioProduto.exe
+c:\Users\rafael.nakayama\Desktop\ExerciciosCsharp\ExercicioProduto\bin\Debug\net8.0\ExercicioProduto.deps.json
+c:\Users\rafael.nakayama\Desktop\ExerciciosCsharp\ExercicioProduto\bin\Debug\net8.0\ExercicioProduto.runtimeconfig.json
+c:\Users\rafael.nakayama\Desktop\ExerciciosCsharp\ExercicioProduto\bin\Debug\net8.0\ExercicioProduto.dll
+c:\Users\rafael.nakayama\Desktop\ExerciciosCsharp\ExercicioProduto\bin\Debug\net8.0\ExercicioProduto.pdb
+c:\Users\rafael.nakayama\Desktop\ExerciciosCsharp\ExercicioProduto\obj\Debug\net8.0\ExercicioProduto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rafael.nakayama\Desktop\ExerciciosCsharp\ExercicioProduto\obj\Debug\net8.0\ExercicioProduto.AssemblyInfoInputs.cache
+c:\Users\rafael.nakayama\Desktop\ExerciciosCsharp\ExercicioProduto\obj\Debug\net8.0\ExercicioProduto.AssemblyInfo.cs
+c:\Users\rafael.nakayama\Desktop\ExerciciosCsharp\ExercicioProduto\obj\Debug\net8.0\ExercicioProduto.csproj.CoreCompileInputs.cache
+c:\Users\rafael.nakayama\Desktop\ExerciciosCsharp\ExercicioProduto\obj\Debug\net8.0\ExercicioProduto.dll
+c:\Users\rafael.nakayama\Desktop\ExerciciosCsharp\ExercicioProduto\obj\Debug\net8.0\refint\ExercicioProduto.dll
+c:\Users\rafael.nakayama\Desktop\ExerciciosCsharp\ExercicioProduto\obj\Debug\net8.0\ExercicioProduto.pdb
+c:\Users\rafael.nakayama\Desktop\ExerciciosCsharp\ExercicioProduto\obj\Debug\net8.0\ExercicioProduto.genruntimeconfig.cache
+c:\Users\rafael.nakayama\Desktop\ExerciciosCsharp\ExercicioProduto\obj\Debug\net8.0\ref\ExercicioProduto.dll
